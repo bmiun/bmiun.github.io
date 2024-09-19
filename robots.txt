@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bmiun.github.io/eok/sitemap.eok.gz
